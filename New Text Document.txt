@@ -4,3 +4,10 @@ How is the staging area different from the working directory and the repository?
 
 
 git config --global core.editor "'C:\Program Files (x86)\JGsoft\EditPadLite\EditPadLite7.exe' -n -w"
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+How do the diagrams help you visualize the branch structure?
